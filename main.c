@@ -96,7 +96,7 @@ void insertion_sort(int *pNumbers , unsigned int len)
 
 int main()
 {
-
+    // adding a comment
     unsigned int len = sizeof(numbers)/sizeof(int);
 
     array_fill_numbers(numbers,len);
